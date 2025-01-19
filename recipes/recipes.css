@@ -1,0 +1,27 @@
+* {
+    background-color: #f0ead2;
+}
+
+.tabs {
+    color: #008585;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p,
+ul,
+ol {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
